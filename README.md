@@ -1,4 +1,6 @@
 # 🚀 Python GUI Application
+![Screenshot (14)](https://github.com/MAVUNDL/Basic_login_system/assets/117544413/d1233a83-4ad4-41ad-b4c9-943b8c4e523e)
+
 
 This application is a GUI (Graphical User Interface) built with Python. It uses the `customtkinter` library to create a user-friendly interface for user authentication (login and sign-up).
 
